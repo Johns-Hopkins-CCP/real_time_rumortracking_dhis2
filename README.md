@@ -1,7 +1,7 @@
 # real_time_rumortracking_dhis2
 A pre-configured metadata package for rumor tracking that can be installed on a new DHIS2 system or imported to an existing system.
 
-Please read the  Real-Time Rumor Tracking For COVID-19 – System Design And Implementation Guide
+Please read the Real-Time Rumor Tracking For COVID-19 – System Design And Implementation Guide
 
 This document is written for humanitarian or public health organizations as well as national governments seeking to document rumors in a systematic and dynamic fashion. First, the document provides an overview of the role of rumors in a public health or humanitarian emergency, followed by a summary of the community-based approach taken by Breakthrough ACTION during the COVID-19 pandemic.
 
