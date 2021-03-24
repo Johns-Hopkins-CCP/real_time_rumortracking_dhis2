@@ -1,0 +1,325 @@
+{
+  "date": "2020-10-29T18:23:06.507",
+  "dataSets": [
+    {
+      "lastUpdated": "2020-10-19T15:53:40.077",
+      "id": "PX9qIljSDeZ",
+      "created": "2020-10-19T15:50:09.755",
+      "name": "Rumour Management Report",
+      "validCompleteOnly": false,
+      "dataElementDecoration": false,
+      "publicAccess": "--------",
+      "notifyCompletingUser": false,
+      "noValueRequiresComment": false,
+      "skipOffline": false,
+      "compulsoryFieldsCompleteOnly": false,
+      "fieldCombinationRequired": false,
+      "renderHorizontally": false,
+      "renderAsTabs": true,
+      "mobile": false,
+      "version": 3,
+      "timelyDays": 15,
+      "periodType": "Monthly",
+      "openFuturePeriods": 0,
+      "expiryDays": 0,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "dataSetElements": [
+        {
+          "dataElement": {
+            "id": "dpVQ8fBPjIb"
+          },
+          "dataSet": {
+            "id": "PX9qIljSDeZ"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "vt4Vuz8AhYZ"
+          },
+          "dataSet": {
+            "id": "PX9qIljSDeZ"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "zWEW7Y1xDHP"
+          },
+          "dataSet": {
+            "id": "PX9qIljSDeZ"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "xtr36ROKEVU"
+          },
+          "dataSet": {
+            "id": "PX9qIljSDeZ"
+          }
+        }
+      ],
+      "compulsoryDataElementOperands": [],
+      "translations": [],
+      "dataInputPeriods": [],
+      "organisationUnits": [
+      ],
+      "userGroupAccesses": [
+        {
+          "access": "r-r-----",
+          "userGroupUid": "I7raGMewysB",
+          "displayName": "Rumour data: View",
+          "id": "I7raGMewysB"
+        },
+        {
+          "access": "r-rw----",
+          "userGroupUid": "ludU9iKqkfm",
+          "displayName": "Rumour data: Capture",
+          "id": "ludU9iKqkfm"
+        },
+        {
+          "access": "rwr-----",
+          "userGroupUid": "wceJPoSMkmU",
+          "displayName": "Rumour data: Metadata edit",
+          "id": "wceJPoSMkmU"
+        }
+      ],
+      "attributeValues": [],
+      "indicators": [],
+      "userAccesses": [],
+      "legendSets": []
+    }
+  ],
+  "sections": [
+    {
+      "created": "2020-10-19T15:52:59.378",
+      "lastUpdated": "2020-10-19T15:52:59.378",
+      "name": "Report",
+      "id": "FVrOVj84PRH",
+      "sortOrder": 1,
+      "showRowTotals": false,
+      "showColumnTotals": false,
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "dataSet": {
+        "id": "PX9qIljSDeZ"
+      },
+      "greyedFields": [],
+      "attributeValues": [],
+      "indicators": [],
+      "translations": [],
+      "dataElements": [
+        {
+          "id": "vt4Vuz8AhYZ"
+        },
+        {
+          "id": "zWEW7Y1xDHP"
+        },
+        {
+          "id": "xtr36ROKEVU"
+        },
+        {
+          "id": "dpVQ8fBPjIb"
+        }
+      ]
+    }
+  ],
+  "categoryOptionCombos": [
+    {
+      "lastUpdated": "2018-04-04T20:42:05.204",
+      "code": "default",
+      "created": "2018-04-04T20:42:05.204",
+      "name": "default",
+      "id": "HllvX50cXC0",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "code": "default",
+      "created": "2018-04-04T20:42:05.181",
+      "lastUpdated": "2020-10-19T15:55:47.013",
+      "name": "default",
+      "id": "GLevLNI9wkl",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "dataDimension": false,
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    }
+  ],
+  "categoryCombos": [
+    {
+      "code": "default",
+      "created": "2018-04-04T20:42:05.199",
+      "lastUpdated": "2018-04-04T20:42:05.208",
+      "name": "default",
+      "id": "bjDvmb4bfuf",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "skipTotal": false,
+      "userGroupAccesses": [],
+      "translations": [],
+      "userAccesses": [],
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ]
+    }
+  ],
+  "dataElements": [
+    {
+      "lastUpdated": "2020-10-19T16:36:22.971",
+      "id": "dpVQ8fBPjIb",
+      "created": "2020-10-19T15:49:12.487",
+      "name": "RMR- Description of actions taken based on rumours",
+      "shortName": "RMR- Description of actions taken based on rumours",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "publicAccess": "rw------",
+      "valueType": "LONG_TEXT",
+      "formName": "Please describe actions taken to address rumours (specify each rumour addressed and the action that was taken, by whom). ",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "translations": [],
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "userAccesses": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2020-10-19T16:36:34.930",
+      "id": "zWEW7Y1xDHP",
+      "created": "2020-10-19T15:47:00.028",
+      "name": "RMR- New (unique) rumours that were acted upon through risk communication or community engagement",
+      "shortName": "RMR- New rumours acted upon through RCCE",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "publicAccess": "rw------",
+      "valueType": "INTEGER_ZERO_OR_POSITIVE",
+      "formName": "How many of the new rumours were acted upon through risk communication or community engagement?",
+      "zeroIsSignificant": true,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "translations": [],
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "userAccesses": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2020-10-19T16:36:29.369",
+      "id": "vt4Vuz8AhYZ",
+      "created": "2020-10-19T15:45:13.788",
+      "name": "RMR- New (unique) rumours that emerged this month",
+      "shortName": "RMR- New (unique) rumours that emerged this month",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "publicAccess": "rw------",
+      "valueType": "INTEGER_ZERO_OR_POSITIVE",
+      "formName": "How many new, unique rumours emerged this month? ",
+      "zeroIsSignificant": true,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "translations": [],
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "userAccesses": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2020-10-19T16:36:41.498",
+      "id": "xtr36ROKEVU",
+      "created": "2020-10-19T15:47:54.597",
+      "name": "RMR- Total rumours acted upon through risk communication or community engagement",
+      "shortName": "RMR- Total rumours acted upon through RCCE",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "publicAccess": "rw------",
+      "valueType": "INTEGER_ZERO_OR_POSITIVE",
+      "formName": "How many total rumours were acted upon through risk communication, community engagement, including new rumours and rumours from previous months?",
+      "zeroIsSignificant": true,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "translations": [],
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "userAccesses": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    }
+  ],
+  "categoryOptions": [
+    {
+      "code": "default",
+      "created": "2018-04-04T20:42:05.147",
+      "lastUpdated": "2018-04-04T20:42:05.224",
+      "name": "default",
+      "id": "xYerKDKCefk",
+      "shortName": "default",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "userGroups": [
+    {
+      "created": "2020-09-02T18:38:20.936",
+      "lastUpdated": "2020-09-02T18:38:20.936",
+      "name": "Rumour data: Capture",
+      "id": "ludU9iKqkfm",
+      "publicAccess": "rw------",
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "userGroupAccesses": [
+        
+      ],
+      "attributeValues": [
+        
+      ],
+      "users": [
+      ],
+      "managedGroups": [
+        
+      ],
+      "translations": [
+        
+      ],
+      "userAccesses": [
+        
+      ]
+    },
+    {
+      "created": "2020-09-07T17:04:29.758",
+      "lastUpdated": "2020-09-07T17:04:29.758",
+      "name": "Rumour data: Metadata edit",
+      "id": "wceJPoSMkmU",
+      "publicAccess": "rw------",
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "userGroupAccesses": [
+        
+      ],
+      "attributeValues": [
+        
+      ],
+      "users": [
+      ],
+      "managedGroups": [
+        
+      ],
+      "translations": [
+        
+      ],
+      "userAccesses": [
+        
+      ]
+    },
+    {
+      "created": "2020-09-02T18:38:06.130",
+      "lastUpdated": "2020-09-02T18:38:06.130",
+      "name": "Rumour data: View",
+      "id": "I7raGMewysB",
+      "publicAccess": "rw------",
+      "lastUpdatedBy": {
+        "id": "nZSksmyebe9"
+      },
+      "user": {
+        "id": "nZSksmyebe9"
+      },
+      "userGroupAccesses": [
+        
+      ],
+      "attributeValues": [
+        
+      ],
+      "users": [
+      ],
+      "managedGroups": [
+        
+      ],
+      "translations": [
+        
+      ],
+      "userAccesses": [
+        
+      ]
+    }
+  ]
+}
